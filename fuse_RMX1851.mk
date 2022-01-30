@@ -5,7 +5,7 @@
 #
 
 # Inherit some common Raven OS stuff.
-$(call inherit-product, vendor/fuse/config/common_full_phone.mk)
+$(call inherit-product, vendor/fuse/config/common.mk)
 
 # Inherit from RMX1851 device.
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
