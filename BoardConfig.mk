@@ -12,6 +12,8 @@ DEVICE_PATH := device/realme/RMX1851
 # Assert
 TARGET_OTA_ASSERT_DEVICE := RMX1851
 
+ALLOW_MISSING_DEPENDENCIES := true
+
 # Kernel
 TARGET_KERNEL_CONFIG := Illusion_defconfig
 
