@@ -432,6 +432,8 @@ vendor/etc/qdcm_calib_data_oppo18621_hx83112a_1080_2340_video_mode_dsi_panel.xml
 vendor/etc/qdcm_calib_data_rm19651samsung_ams641rw01_1080_2340_cmd_mode_dsi_panel.xml
 vendor/lib/libdisplayconfig.qti.so
 vendor/lib64/libdisplayconfig.qti.so
+vendor/lib/libwfdaac_vendor.so
+vendor/lib64/libwfdaac_vendor.so
 
 # Fingerprint
 vendor/lib/hw/fingerprint.goodix_G2.default.so
