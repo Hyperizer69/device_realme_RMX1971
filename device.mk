@@ -52,6 +52,10 @@ PRODUCT_PACKAGES += \
     init.oppo.rc \
     init.camera_firmware.rc
 
+# Display
+PRODUCT_PACKAGES += \
+    libwfdaac_vendor
+    
 # Fingerprint
 PRODUCT_PACKAGES += \
     vendor.oppo.hardware.biometrics.fingerprint@2.1
